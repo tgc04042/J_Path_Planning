@@ -34,5 +34,6 @@ $ pip3 install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f 
 ```
 
 ### Weight and cfg file for YOLO
-https://drive.google.com/file/d/12LlgdAFJWwPgN4_0ME4Z3Rpd2qe_uBLk/view?usp=sharing, https://drive.google.com/file/d/1BchLk5e-iF7vailwSVYZ1xbRzpB5cFx6/view?usp=sharing, https://drive.google.com/file/d/1T8HjnDqDdpbK_7yE05saM6WKs3lHUHD7/view?usp=sharing, https://drive.google.com/file/d/1l_UERotZB5QO7OzhDGD8GdVy25Nxl2Qs/view?usp=sharing
+https://drive.google.com/file/d/12LlgdAFJWwPgN4_0ME4Z3Rpd2qe_uBLk/view?usp=sharing,<br/> 
+https://drive.google.com/file/d/1BchLk5e-iF7vailwSVYZ1xbRzpB5cFx6/view?usp=sharing,<br/> https://drive.google.com/file/d/1T8HjnDqDdpbK_7yE05saM6WKs3lHUHD7/view?usp=sharing,<br/> https://drive.google.com/file/d/1l_UERotZB5QO7OzhDGD8GdVy25Nxl2Qs/view?usp=sharing <br/>
 

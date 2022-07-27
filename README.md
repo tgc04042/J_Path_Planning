@@ -2,7 +2,11 @@
 
 # Sub Project Lists (meaning submodules)
 All sub Projects are in **src** directory
-- 
+- localization_pkgs
+- objectDetection_pkgs (YOLO model)
+- sensor_pkgs
+- default_pkgs (For RC car)
+- controller_pkgs (Expected..)
 
 # Installation
 ### Build workspace

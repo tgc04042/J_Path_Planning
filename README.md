@@ -26,3 +26,7 @@ $catkin_make --cmake-args -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bi
 #in the your workspace
 $catkin_make
 ```
+
+# Weight and cfg file for YOLO
+https://drive.google.com/file/d/12LlgdAFJWwPgN4_0ME4Z3Rpd2qe_uBLk/view?usp=sharing, https://drive.google.com/file/d/1BchLk5e-iF7vailwSVYZ1xbRzpB5cFx6/view?usp=sharing, https://drive.google.com/file/d/1T8HjnDqDdpbK_7yE05saM6WKs3lHUHD7/view?usp=sharing, https://drive.google.com/file/d/1l_UERotZB5QO7OzhDGD8GdVy25Nxl2Qs/view?usp=sharing
+

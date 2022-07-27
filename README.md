@@ -9,8 +9,8 @@ All sub Projects are in **src** directory
 When you clone this repository for the first time, You need to build workspace as follow.
 
 #### particle filter geometry/tf2
-$pip3 install pyyaml==5.4.1
-$wstool init
+$pip3 install pyyaml==5.4.1 <br/>
+$wstool init <br/>
 $wstool set -y src/geometry2 --git  https://github.com/ros/geometry2  -v 0.6.5
 $wstool up
 $rosdep install --from-paths src --ignore-src -y -r

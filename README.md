@@ -26,5 +26,3 @@ $catkin_make --cmake-args -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bi
 #in the your workspace
 $catkin_make
 ```
-
-This is Test
